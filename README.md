@@ -73,3 +73,12 @@ The following table summarizes the EVM's supported instructions:
 
 # 🖼️ Results Gallery
 
+![img.png](source/img/1.png)
+
+![img.png](source/img/2.png)
+
+![img.png](source/img/3.png)
+
+![img.png](source/img/4.png)
+
+![img.png](source/img/5.png)
