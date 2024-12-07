@@ -41,7 +41,7 @@ python main.py assemble <path_to_input.txt> <path_to_output.bin> --log_file <pat
 python main.py interpret <path_to_output.bin> <path_to_result.csv> --memory_range=0:10
 ```
 
-Example
+**Example**
 
 **input.txt**
 ```editorconfig
@@ -51,7 +51,7 @@ A=244,B=22,C=28
 A=103,B=15,C=18,D=21
 ```
 
-**Run**
+Run
 ```editorconfig
 python main.py assemble source/input.txt source/output.bin --log_file source/log.csv
 python main.py interpret source/output.bin source/result.csv --memory_range=0:10
